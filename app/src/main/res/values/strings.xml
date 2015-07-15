@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TulingDemo</string>
+    <string name="hello_world">Hello world!</string>
+
+  <string-array name="welcome_tip">
+      <item >hello</item>
+       <item >欢迎</item>
+        <item >welcome</item>
+         <item >你好</item>
+          <item >主人辛苦了</item>
+  </string-array>
+</resources>
